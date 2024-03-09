@@ -20,9 +20,11 @@ MonoBehaviour:
     phyDef: 0
     magDef: 0
     speed: 0
+  prefeb: {fileID: 0}
   player:
     name: 
     Stars: 0
     level: 0
     currentExp: 0
     maxExp: 0
+  AttackPatterns: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
